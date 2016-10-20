@@ -30,7 +30,8 @@
 <v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
 <v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="amd.20161004083800.8"><vh>HTML 投影片 (標題)</vh></v>
+<v t="amd.20161004083800.8"><vh>HTML 投影片 (Solvespace)</vh></v>
+<v t="leo.20161020145303.1"><vh>HTML 投影片 (標題)</vh></v>
 <v t="amd.20161004104820.1" a="E"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
 <v t="amd.20161004104641.2"><vh>機械設計主題教學</vh></v>
@@ -354,14 +355,10 @@ apply broader style changes, like switching the page background.
 
 </t>
 <t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;2016Fall CADP&lt;/h1&gt;
-    &lt;h1&gt;電腦輔助設計課程&lt;/h1&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;Solvespace Videos&lt;/h3&gt;
     &lt;p&gt;
-    &lt;small&gt;
-    Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / 
-    &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;
-    &lt;/small&gt;
+    &lt;iframe src="https://player.vimeo.com/video/186445993?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;p&gt;&lt;a href="https://vimeo.com/186445993"&gt;solvespace videos&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
     &lt;/p&gt;
     
     &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
@@ -866,5 +863,19 @@ Diff...
 <t tx="leo.20161006153352.7">2016 Fall 計算機程式課程
 </t>
 <t tx="leo.20161006153352.8"></t>
+<t tx="leo.20161020145303.1">&lt;section&gt;
+    &lt;h1&gt;2016Fall CADP&lt;/h1&gt;
+    &lt;h1&gt;電腦輔助設計課程&lt;/h1&gt;
+    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;p&gt;
+    &lt;small&gt;
+    Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / 
+    &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;
+    &lt;/small&gt;
+    &lt;/p&gt;
+    
+    &lt;a href="blog/index.html"&gt;blog&lt;/a&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
