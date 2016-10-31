@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-10-27T12:00:00+08:00</updated><entry><title>[懶人包] 期中前要做的事</title><link href="./LazyPackage2016.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-10-27:./LazyPackage2016.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中前這幾週老師的課程內容。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadpa.atom.xml" rel="self"></link><id>./</id><updated>2016-10-27T12:00:00+08:00</updated><entry><title>[懶人包] 期中前要做的事</title><link href="./LazyPackage2016.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-10-27:./LazyPackage2016.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中前這幾週老師的課程內容。&lt;/p&gt;
 
 
 &lt;h3&gt;可攜系統安裝&lt;/h3&gt;
@@ -85,16 +85,4 @@
 &lt;hr/&gt;
 
 &lt;p&gt;當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="https://mdecourse.github.io/2016fallcadpa/w7/w7_fourbar.csv"&gt;40423117.csv&lt;/a&gt;, &lt;a href="https://mdecourse.github.io/2016fallcadpa/w7/w7_fourbar.slvs"&gt;四連桿圖檔&lt;/a&gt;
-&lt;a href="http://i.imgur.com/sQt8trC.png"&gt;&lt;img src="http://i.imgur.com/sQt8trC.png" height="450px"&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="懶人包"></category><category term="solvespace"></category><category term="零件圖繪製"></category><category term="四連桿機構"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-21T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-21:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
-
-
-&lt;h1&gt;機械設計主題教學&lt;/h1&gt;
-&lt;p&gt;創造力三元素, 機械設計的六種表達, 協同設計的四大面向.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;強化創造能力 - 自學力、程式力與想像力
-(Creative Competencies)&lt;/li&gt;
-&lt;li&gt;熟習六種表達  - 口語、文字、2D、3D、理論與實體表達
-(Six Presentation Methods)&lt;/li&gt;
-&lt;li&gt;融入協同設計 - 電腦、網路、軟硬體工具與協同專案
-(Collaborative Designs)&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="使用導引"></category><category term="創造力"></category><category term="表達能力"></category><category term="協同設計"></category></entry></feed>
+&lt;a href="http://i.imgur.com/sQt8trC.png"&gt;&lt;img src="http://i.imgur.com/sQt8trC.png" height="450px"&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="懶人包"></category><category term="solvespace"></category><category term="零件圖繪製"></category><category term="四連桿機構"></category></entry></feed>
