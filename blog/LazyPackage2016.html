@@ -366,7 +366,7 @@ init_mathjax();
 <ol>
 <li>先登入 <a href="https://github.com/">GitHub</a></li>
 <li>Create a new <a href="https://github.com/new">Repository</a></li>
-<li>Repository name : 2016fallcadp_hw</li>
+<li>Repository name : <code>2016fallcadp_hw</code></li>
 <li>打勾 [Initialize this repository with a README]</li>
 <li>按下 Create  repository</li>
 <li>進入 Setting</li>
@@ -378,7 +378,7 @@ init_mathjax();
 <ol>
 <li>先登入 <a href="https://github.com/">GitHub</a></li>
 <li>Create a new <a href="https://github.com/new">Repository</a></li>
-<li>Repository name : 學號.github.io (example: 40423117.github.io)</li>
+<li>Repository name : <code>學號.github.io</code> (example: 40423117.github.io)</li>
 <li>打勾 [Initialize this repository with a README]</li>
 <li>按下 Create  repository</li>
 <li>進入 Setting</li>
@@ -395,17 +395,38 @@ init_mathjax();
     <p><a href="https://vimeo.com/186445993">solvespace videos</a> from <a href="https://vimeo.com/user44900188">40423117</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
     </p></li>
 </ol>
+<h3>錄影工具 (ShareX)</h3>
+<p><hr/>
+去聲音指令:<br />
+<code>ffmpeg.exe -i 檔名 -c copy -an out.mp4</code></p>
+<p>字幕指令:<br />
+<code>ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4</code></p>
+<h3>Git Code</h3>
+<hr/>
+
+<p>安裝pelican指令:
+<code>pip install pelican</code> </p>
+<p>新增submodule:
+<code>git submodule add -b gh-pages 倉儲網址</code></p>
+<p>刪除指令:
+<code>git rm -rf</code></p>
+<p>Clone時連submodule一起下載:
+<code>git clone --recursive 倉儲網址</code></p>
+<p>Clone完發現submodule是空的時候,用指令抓:
+<code>git submodule update --init --recursive</code> </p>
+<p>子目錄下的子模組一次全部更新(Pull)：
+<code>git submodule foreach --recursive git pull origin master</code></p>
 <h3>Proxy Setting</h3>
 <hr/>
 
 <p>至區域網路(LAN)設定中，設定Proxy伺服器</p>
-<p>位址： proxy.mde.tw
-連接埠： 3128</p>
+<p>位址：<code>proxy.mde.tw</code>
+連接埠：<code>3128</code></p>
 <h3>Git Proxy Setting</h3>
 <hr/>
 
 <p>推到GitHub前在命令提示字元[ cmd.exe ]輸入指令: </p>
-<p>[ git config --global http.proxy http://proxy.mde.tw:3128 ]</p>
+<p><code>git config --global http.proxy http://proxy.mde.tw:3128 </code></p>
 <h3>四連桿機構模擬</h3>
 <hr/>
 

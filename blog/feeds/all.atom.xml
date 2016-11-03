@@ -41,7 +41,7 @@
 &lt;ol&gt;
 &lt;li&gt;先登入 &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Create a new &lt;a href="https://github.com/new"&gt;Repository&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Repository name : 2016fallcadp_hw&lt;/li&gt;
+&lt;li&gt;Repository name : &lt;code&gt;2016fallcadp_hw&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;打勾 [Initialize this repository with a README]&lt;/li&gt;
 &lt;li&gt;按下 Create  repository&lt;/li&gt;
 &lt;li&gt;進入 Setting&lt;/li&gt;
@@ -53,7 +53,7 @@
 &lt;ol&gt;
 &lt;li&gt;先登入 &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Create a new &lt;a href="https://github.com/new"&gt;Repository&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Repository name : 學號.github.io (example: 40423117.github.io)&lt;/li&gt;
+&lt;li&gt;Repository name : &lt;code&gt;學號.github.io&lt;/code&gt; (example: 40423117.github.io)&lt;/li&gt;
 &lt;li&gt;打勾 [Initialize this repository with a README]&lt;/li&gt;
 &lt;li&gt;按下 Create  repository&lt;/li&gt;
 &lt;li&gt;進入 Setting&lt;/li&gt;
@@ -70,17 +70,38 @@
     &lt;p&gt;&lt;a href="https://vimeo.com/186445993"&gt;solvespace videos&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
     &lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h3&gt;錄影工具 (ShareX)&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;
+去聲音指令:&lt;br /&gt;
+&lt;code&gt;ffmpeg.exe -i 檔名 -c copy -an out.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;字幕指令:&lt;br /&gt;
+&lt;code&gt;ffmpeg.exe -i out.mp4 -vf subtitles=in.srt out2.mp4&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Git Code&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;安裝pelican指令:
+&lt;code&gt;pip install pelican&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;新增submodule:
+&lt;code&gt;git submodule add -b gh-pages 倉儲網址&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;刪除指令:
+&lt;code&gt;git rm -rf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Clone時連submodule一起下載:
+&lt;code&gt;git clone --recursive 倉儲網址&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Clone完發現submodule是空的時候,用指令抓:
+&lt;code&gt;git submodule update --init --recursive&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;子目錄下的子模組一次全部更新(Pull)：
+&lt;code&gt;git submodule foreach --recursive git pull origin master&lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;Proxy Setting&lt;/h3&gt;
 &lt;hr/&gt;
 
 &lt;p&gt;至區域網路(LAN)設定中，設定Proxy伺服器&lt;/p&gt;
-&lt;p&gt;位址： proxy.mde.tw
-連接埠： 3128&lt;/p&gt;
+&lt;p&gt;位址：&lt;code&gt;proxy.mde.tw&lt;/code&gt;
+連接埠：&lt;code&gt;3128&lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;Git Proxy Setting&lt;/h3&gt;
 &lt;hr/&gt;
 
 &lt;p&gt;推到GitHub前在命令提示字元[ cmd.exe ]輸入指令: &lt;/p&gt;
-&lt;p&gt;[ git config --global http.proxy http://proxy.mde.tw:3128 ]&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git config --global http.proxy http://proxy.mde.tw:3128 &lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;四連桿機構模擬&lt;/h3&gt;
 &lt;hr/&gt;
 
