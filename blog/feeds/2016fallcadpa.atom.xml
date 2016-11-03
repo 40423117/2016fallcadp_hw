@@ -90,7 +90,7 @@
 &lt;p&gt;Clone完發現submodule是空的時候,用指令抓:
 &lt;code&gt;git submodule update --init --recursive&lt;/code&gt; &lt;/p&gt;
 &lt;p&gt;子目錄下的子模組一次全部更新(Pull)：
-&lt;code&gt;git submodule foreach --recursive git pull origin master&lt;/code&gt;&lt;/p&gt;
+&lt;code&gt;git submodule foreach --recursive git pull origin gh-pages&lt;/code&gt;&lt;/p&gt;
 &lt;h3&gt;Proxy Setting&lt;/h3&gt;
 &lt;hr/&gt;
 
