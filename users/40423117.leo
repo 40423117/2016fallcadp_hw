@@ -149,6 +149,9 @@
 <v t="leo.20161030210402.1" a="E"><vh>201610</vh>
 <v t="leo.20161030210022.1"><vh>@edit 20161027.md</vh></v>
 </v>
+<v t="leo.20161110011331.1" a="E"><vh>201611</vh>
+<v t="leo.20161110011338.1"><vh>@edit 20161110.md</vh></v>
+</v>
 </v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
@@ -994,5 +997,6 @@ DEFAULT_DATE = 'fs'</t>
 &lt;a href="http://i.imgur.com/sQt8trC.png"&gt;&lt;img src="http://i.imgur.com/sQt8trC.png" height="450px"&gt;&lt;/a&gt;
 </t>
 <t tx="leo.20161030210402.1"></t>
+<t tx="leo.20161110011331.1"></t>
 </tnodes>
 </leo_file>

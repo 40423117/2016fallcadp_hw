@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadpa.atom.xml" rel="self"></link><id>./</id><updated>2016-10-27T12:00:00+08:00</updated><entry><title>[懶人包] 期中前要做的事</title><link href="./LazyPackage2016.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-10-27:./LazyPackage2016.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中前這幾週老師的課程內容。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadpa.atom.xml" rel="self"></link><id>./</id><updated>2016-11-10T12:00:00+08:00</updated><entry><title>[OnShape] 分組作業1~3week</title><link href="./onshape-fen-zu-zuo-ye-13week.html" rel="alternate"></link><updated>2016-11-10T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-10:./onshape-fen-zu-zuo-ye-13week.html</id><summary type="html">&lt;p&gt;老師在第八週自評的時候，給了一項小組需要分工合作的作業，以下是我在第二組的分工作業內容，以及繪製教學。&lt;/p&gt;
+
+
+&lt;h3&gt;step1. 下載課程資料&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;Onshape 課程資料:  (只要在區域網路可以下載)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://service.mde.tw:8443/downloads/onshape/OnshapeCollegeCurriculum.7z"&gt;OnshapeCollegeCurriculum.7z&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;step2. 分工合作時間&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;依照各組人數由組長分配工作，我的工作是 Week3-1~2&lt;/p&gt;
+&lt;h3&gt;step3. 開始登入OnShape畫圖&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;在 &lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/LazyPackage2016.html"&gt;期中懶人包&lt;/a&gt; 中，已經請各位以學校信箱在 &lt;a href="https://www.onshape.com"&gt;OnShape&lt;/a&gt; 註冊一個帳號(CREATE ACCOUNT)了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;已經註冊的同學，可以到 &lt;a href="https://www.onshape.com"&gt;OnShape&lt;/a&gt; “SIGN IN”，並開始完成作業。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://i.imgur.com/LiyE7eN.png"&gt;&lt;img src="https://i.imgur.com/LiyE7eN.png" height="50%"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;step4. 影片步驟教學&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;h4&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;影片剪輯上傳中......&lt;/font&gt;&lt;/b&gt;&lt;/h4&gt;
+&lt;p&gt;這邊以我分配到的作業，當作示範。當然在這邊，僅此是為了讓大家更快速瞭解，繪圖工具的使用方式。在這邊暫時不討論：Boolean Operations、“Top-Down Design” means.……等。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://i.imgur.com/zyHhM08.png"&gt;&lt;img src="https://i.imgur.com/zyHhM08.png" width="200"&gt;&lt;/a&gt;&lt;a href="https://i.imgur.com/GaQK3Va.png"&gt;&lt;img src="https://i.imgur.com/GaQK3Va.png" width="85"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;step5. Week3-1 步驟&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;
+&lt;a href="https://cad.onshape.com/documents/5823540fec5f9e10edc67475/w/32771219c8e70ebce6752e5c/e/c4b18dd7e4a89f2c02bede28"&gt;College - Linear Part Pattern - 40423117&lt;/a&gt; 
+&lt;a href="https://i.imgur.com/zyHhM08.png"&gt;&lt;img src="https://i.imgur.com/zyHhM08.png" width="200"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目錄：&lt;code&gt;OnshapeCollegeCurriculum\Onshape College Curriculum - Student Materials\Week03&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;1.先到搜尋框打：College - Linear Part Pattern，找到後點入
+&lt;img src="http://i.imgur.com/o0Ez55d.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;2.點選Mark a copy ，選擇 Public(公開的)，Create
+&lt;img src="http://i.imgur.com/khzPd57.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;3.進入自己剛剛複製的文件
+&lt;img src="http://i.imgur.com/LkgEY3Y.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;4.
+&lt;img src="http://i.imgur.com/eEKai4l.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;5.
+&lt;img src="http://i.imgur.com/Tv4Q3VV.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;6.
+&lt;img src="http://i.imgur.com/CNAmnh2.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;7.
+&lt;img src="http://i.imgur.com/FQSbEQc.png" height="50%"&gt;&lt;/p&gt;
+&lt;h3&gt;step5. Week3-2 步驟&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;
+&lt;a href="https://cad.onshape.com/documents/582356dd29960c108fb2fce2/w/c13ccdcc72f87ff413139192/e/f8f2dbce632008b09e8fcd04"&gt;College - Week 3 Homework - 40423117&lt;/a&gt; 
+&lt;a href="https://i.imgur.com/GaQK3Va.png"&gt;&lt;img src="https://i.imgur.com/GaQK3Va.png" width="85"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;目錄：&lt;code&gt;OnshapeCollegeCurriculum\Onshape College Curriculum - Student Materials\Week03&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;1.&lt;a href="https://cad.onshape.com/documents/7b5553135cdf6caafa9a6946/w/549bd8008ce6e8a13dc6b6cf/e/27159315ac3670adb78c8eec"&gt;College - Week 3 Homework&lt;/a&gt; ，進入點選Mark a copy ，選擇 Public(公開的)，Create
+&lt;img src="http://i.imgur.com/onRXGHw.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;2.進入自己剛剛複製的文件
+&lt;img src="http://i.imgur.com/hjPgM3s.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;3.
+&lt;img src="http://i.imgur.com/HbhGIFP.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;4.
+&lt;img src="http://i.imgur.com/Ue6ngBX.png" height="50%"&gt;&lt;/p&gt;
+&lt;p&gt;5.
+&lt;img src="http://i.imgur.com/yU87Poi.png" height="50%"&gt;&lt;/p&gt;</summary><category term="OnShape"></category><category term="分組作業"></category><category term="零件圖繪製"></category></entry><entry><title>[懶人包] 期中前要做的事</title><link href="./LazyPackage2016.html" rel="alternate"></link><updated>2016-10-27T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-10-27:./LazyPackage2016.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中前這幾週老師的課程內容。&lt;/p&gt;
 
 
 &lt;h3&gt;可攜系統安裝&lt;/h3&gt;
