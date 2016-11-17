@@ -151,7 +151,9 @@
 </v>
 <v t="leo.20161110011331.1" a="E"><vh>201611</vh>
 <v t="leo.20161110011338.1"><vh>@edit 20161110.md</vh></v>
+<v t="leo.20161117144717.1"><vh>@edit 20161117.md</vh></v>
 </v>
+<v t="leo.20161117153248.1"><vh>產生 .key 與 .crt</vh></v>
 </v>
 </v>
 <v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
@@ -159,6 +161,7 @@
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
+<v t="leo.20161117151529.1"><vh>@button https server</vh></v>
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 </vnodes>
 <tnodes>
@@ -998,5 +1001,28 @@ DEFAULT_DATE = 'fs'</t>
 </t>
 <t tx="leo.20161030210402.1"></t>
 <t tx="leo.20161110011331.1"></t>
+<t tx="leo.20161117151529.1">@language python
+import os
+import subprocess
+import threading
+import http.server, ssl
+
+def domake():
+    # build directory
+    os.chdir("./../")
+    server_address = ('localhost', 8443)
+    httpd = http.server.HTTPServer(server_address, http.server.SimpleHTTPRequestHandler)
+    httpd.socket = ssl.wrap_socket(httpd.socket,
+                                   server_side=True,
+                                   certfile='localhost.crt',
+                                   keyfile='localhost.key',
+                                   ssl_version=ssl.PROTOCOL_TLSv1)
+    print("8443 https server started")
+    httpd.serve_forever()
+
+# 利用執行緒執行 https 伺服器
+make = threading.Thread(target=domake)
+make.start()</t>
+<t tx="leo.20161117153248.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt</t>
 </tnodes>
 </leo_file>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-10T12:00:00+08:00</updated><entry><title>[OnShape] 分組作業week1~3</title><link href="./onshape-fen-zu-zuo-ye-week13.html" rel="alternate"></link><updated>2016-11-10T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-10:./onshape-fen-zu-zuo-ye-week13.html</id><summary type="html">&lt;p&gt;老師在第八週自評的時候，給了一項小組需要分工合作的作業，以下是我在第二組的分工作業內容，以及繪製教學。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-17T15:00:00+08:00</updated><entry><title>平面機構模擬</title><link href="./ping-mian-ji-gou-mo-ni.html" rel="alternate"></link><updated>2016-11-17T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-17:./ping-mian-ji-gou-mo-ni.html</id><summary type="html">&lt;p&gt;第十週課程內容整理&lt;/p&gt;
+
+
+&lt;h3&gt;Solvespace 平面四連桿機構模擬&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;
+直接利用 Solvespace Analyze-Trace Point-Stop Trace 得到下列繞行路徑:&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/40423117_1117.PNG" height="450px"&gt;&lt;/p&gt;
+&lt;p&gt;將所得到的點座標 .csv 以 Excel 畫圖, 得到:
+&lt;img src="./../data/40423117_csv_excel.PNG" height="450px"&gt;&lt;/p&gt;</summary><category term="solvespace"></category><category term="零件圖繪製"></category></entry><entry><title>[OnShape] 分組作業week1~3</title><link href="./onshape-fen-zu-zuo-ye-week13.html" rel="alternate"></link><updated>2016-11-10T12:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-10:./onshape-fen-zu-zuo-ye-week13.html</id><summary type="html">&lt;p&gt;老師在第八週自評的時候，給了一項小組需要分工合作的作業，以下是我在第二組的分工作業內容，以及繪製教學。&lt;/p&gt;
 
 
 &lt;h3&gt;step1. 下載課程資料&lt;/h3&gt;
@@ -137,7 +145,7 @@
 &lt;li&gt;安裝完成後，就開始零件圖繪製囉！&lt;a href="http://solvespace.com/bracket.pl"&gt;bracket.pl&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Solvespace Videos&lt;p&gt;
     &lt;iframe src="https://player.vimeo.com/video/186445993?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;p&gt;&lt;a href="https://vimeo.com/186445993"&gt;solvespace videos&lt;/a&gt; from &lt;a href="https://vimeo.com/user44900188"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://vimeo.com/user44960495"&gt;solvespace videos&lt;/a&gt; from &lt;a href="https://vimeo.com/user44960495"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
     &lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;錄影工具 (ShareX)&lt;/h3&gt;
@@ -175,7 +183,7 @@
 &lt;h3&gt;四連桿機構模擬&lt;/h3&gt;
 &lt;hr/&gt;
 
-&lt;p&gt;當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="https://mdecourse.github.io/2016fallcadpa/w7/w7_fourbar.csv"&gt;40423117.csv&lt;/a&gt;, &lt;a href="https://mdecourse.github.io/2016fallcadpa/w7/w7_fourbar.slvs"&gt;四連桿圖檔&lt;/a&gt;
+&lt;p&gt;當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到 &lt;a href="https://40423117.github.io/2016fallcadp_hw/data/w7_fourbar.csv"&gt;40423117.csv&lt;/a&gt;, &lt;a href="https://40423117.github.io/2016fallcadp_hw/data/w7_fourbar.slvs"&gt;四連桿圖檔&lt;/a&gt;
 &lt;a href="http://i.imgur.com/sQt8trC.png"&gt;&lt;img src="http://i.imgur.com/sQt8trC.png" height="450px"&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="懶人包"></category><category term="solvespace"></category><category term="零件圖繪製"></category><category term="四連桿機構"></category></entry><entry><title>2016Fall 機械設計主題教學</title><link href="./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html" rel="alternate"></link><updated>2016-09-21T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-09-21:./2016fall-ji-jie-she-ji-zhu-ti-jiao-xue.html</id><summary type="html">&lt;p&gt;知識管理與最佳化應用實驗室試圖利用計算機程式、網際內容管理、電腦輔助設計實習與協同產品設計實習等課程, 進行與機械設計相關的主題式教學, 其中包含強化創造力的教學、令學員熟習六種工程表達方式, 並且俱備融入協同設計所需要的四大面向知識與技能.&lt;/p&gt;
 
 
