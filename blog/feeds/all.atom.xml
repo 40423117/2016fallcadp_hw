@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-19T20:00:00+08:00</updated><entry><title>模組缺少解決辦法</title><link href="./mo-zu-que-shao-jie-jue-ban-fa.html" rel="alternate"></link><published>2016-11-19T20:00:00+08:00</published><updated>2016-11-19T20:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-19:./mo-zu-que-shao-jie-jue-ban-fa.html</id><summary type="html">&lt;p&gt;[&lt;b&gt;&lt;font color="#FF0000"&gt;非課程內容相關，不用複製&lt;/font&gt;&lt;/b&gt;]
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-24T15:00:00+08:00</updated><entry><title>[Week 11] 課程內容整理</title><link href="./week-11-ke-cheng-nei-rong-zheng-li.html" rel="alternate"></link><published>2016-11-24T15:00:00+08:00</published><updated>2016-11-24T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-24:./week-11-ke-cheng-nei-rong-zheng-li.html</id><summary type="html">&lt;p&gt;[Week 11] 第十一週課程內容概要整理。&lt;/p&gt;
+
+
+&lt;p&gt;Extrude (平行長出或除料)&lt;/p&gt;
+&lt;p&gt;Lathe (旋轉繞行長出或除料)&lt;/p&gt;
+&lt;p&gt;Export Triangle Mesh&lt;/p&gt;
+&lt;p&gt;STL 格式&lt;/p&gt;
+&lt;p&gt;three.js&lt;/p&gt;
+&lt;iframe src="./../data/threejs/week11.html" width="500" height="500"&gt;&lt;/iframe&gt;</summary><category term="solvespace"></category><category term="零件圖繪製"></category></entry><entry><title>模組缺少解決辦法</title><link href="./mo-zu-que-shao-jie-jue-ban-fa.html" rel="alternate"></link><published>2016-11-19T20:00:00+08:00</published><updated>2016-11-19T20:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-19:./mo-zu-que-shao-jie-jue-ban-fa.html</id><summary type="html">&lt;p&gt;[&lt;b&gt;&lt;font color="#FF0000"&gt;非課程內容相關，不用複製&lt;/font&gt;&lt;/b&gt;]
 本篇文章適用於使用今年新版課程bat套件問題解決。&lt;/p&gt;
 
 

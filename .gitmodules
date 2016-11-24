@@ -1,0 +1,4 @@
+[submodule "2016fallcadp"]
+	path = 2016fallcadp
+	url = https://github.com/mdecourse/2016fallcadp.git
+	branch = gh-pages

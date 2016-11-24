@@ -153,6 +153,7 @@
 <v t="leo.20161110011338.1"><vh>@edit 20161110.md</vh></v>
 <v t="leo.20161117144717.1"><vh>@edit 20161117.md</vh></v>
 <v t="leo.20161119202249.1"><vh>@edit 20161119.md</vh></v>
+<v t="leo.20161124144412.1"><vh>@edit 20161124.md</vh></v>
 </v>
 <v t="leo.20161117153248.1"><vh>產生 .key 與 .crt</vh></v>
 </v>
@@ -1023,8 +1024,7 @@ def domake():
 
 # 利用執行緒執行 https 伺服器
 make = threading.Thread(target=domake)
-make.start()
-</t>
+make.start()</t>
 <t tx="leo.20161117153248.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt</t>
 </tnodes>
 </leo_file>
