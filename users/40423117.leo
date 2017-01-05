@@ -19,7 +19,7 @@
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
 <v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
-<v t="amd.20151216151325.1" a="E"><vh>@clean index.html</vh>
+<v t="amd.20151216151325.1"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh>
 <v t="amd.20161004083800.3"><vh>&lt;&lt; 投影片標題 &gt;&gt;</vh></v>
@@ -129,7 +129,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -154,6 +154,9 @@
 <v t="leo.20161117144717.1"><vh>@edit 20161117.md</vh></v>
 <v t="leo.20161119202249.1"><vh>@edit 20161119.md</vh></v>
 <v t="leo.20161124144412.1"><vh>@edit 20161124.md</vh></v>
+</v>
+<v t="leo.20170105162926.1" a="E"><vh>201701</vh>
+<v t="leo.20170105161054.1"><vh>@edit 20170105.md</vh></v>
 </v>
 <v t="leo.20161117153248.1"><vh>產生 .key 與 .crt</vh></v>
 </v>
@@ -1026,5 +1029,6 @@ def domake():
 make = threading.Thread(target=domake)
 make.start()</t>
 <t tx="leo.20161117153248.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt</t>
+<t tx="leo.20170105162926.1"></t>
 </tnodes>
 </leo_file>
