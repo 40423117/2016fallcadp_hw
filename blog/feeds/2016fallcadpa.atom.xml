@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadpa.atom.xml" rel="self"></link><id>./</id><updated>2017-01-05T15:00:00+08:00</updated><entry><title>[懶人包] 期末前要做的事</title><link href="./lan-ren-bao-qi-mo-qian-yao-zuo-de-shi.html" rel="alternate"></link><published>2017-01-05T15:00:00+08:00</published><updated>2017-01-05T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-05:./lan-ren-bao-qi-mo-qian-yao-zuo-de-shi.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期末前這幾週老師的課程內容。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/2016fallcadpa.atom.xml" rel="self"></link><id>./</id><updated>2017-01-05T15:00:00+08:00</updated><entry><title>[懶人包] 期中後到期末前要做的事</title><link href="./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html" rel="alternate"></link><published>2017-01-05T15:00:00+08:00</published><updated>2017-01-05T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-05:./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中後到期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中後到期末前這幾週老師的課程內容。&lt;/p&gt;
+&lt;p&gt;期中懶人包：&lt;button type="button" class="btn btn-primary btn-xs"&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/LazyPackage2016.html"&gt;點我看&lt;/a&gt; &lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;貼心提醒：&lt;/font&gt;&lt;/b&gt;建議同學們，還是先把期中之前要做的事情完成，這樣本篇文章才能進行得更快哦！&lt;/small&gt;&lt;/p&gt;
 
 
-&lt;p&gt;[&lt;b&gt;&lt;font color="#FF0000"&gt;整理中哦！&lt;/font&gt;&lt;/b&gt;]&lt;/p&gt;</summary><category term="solvespace"></category><category term="零件圖繪製"></category></entry><entry><title>[Week 11] 課程內容整理</title><link href="./week-11-ke-cheng-nei-rong-zheng-li.html" rel="alternate"></link><published>2016-11-24T15:00:00+08:00</published><updated>2016-11-24T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-24:./week-11-ke-cheng-nei-rong-zheng-li.html</id><summary type="html">&lt;p&gt;[Week 11] 第十一週課程內容概要整理。&lt;/p&gt;
+&lt;h3&gt;期中後~期末前所需&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;圖文及影片正在後製整理中...&lt;/font&gt;，預計完成時間：2017/01/15&lt;/b&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;等待的期間，同學可以先將組內的Onshape作業先自行畫好，以及拍攝影片喔！&lt;/p&gt;
+&lt;p&gt;OnShape 組內作業：&lt;button type="button" class="btn btn-primary btn-xs"&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/onshape-fen-zu-zuo-ye-week13.html"&gt;點我看&lt;/a&gt; &lt;/button&gt;&lt;/p&gt;</summary><category term="solvespace"></category><category term="零件圖繪製"></category></entry><entry><title>HTML遠端無法顯示的問題</title><link href="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html" rel="alternate"></link><published>2016-12-01T15:00:00+08:00</published><updated>2016-12-01T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-12-01:./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html</id><summary type="html">&lt;p&gt;Solvespace 輸出HTML後，使用HTML iframe語法插入網頁上無法顯示&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;此篇會教你如何解決！&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;圖文及影片正在後製整理中...&lt;/font&gt;，預計完成時間：2017/01/15&lt;/b&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;將Solvespace 儲存的HTML檔，拉進任意編輯器中，修改以下兩行&lt;/p&gt;
+&lt;p&gt;[原始]&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;script src="&lt;b&gt;http&lt;/b&gt;://threejs.org/build/three.js"&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;script src="&lt;b&gt;http&lt;/b&gt;://hammerjs.github.io/dist/hammer.js"&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;[修正後]&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;script src="&lt;b&gt;https&lt;/b&gt;://threejs.org/build/three.js"&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;script src="&lt;b&gt;https&lt;/b&gt;://hammerjs.github.io/dist/hammer.js"&lt;/code&gt;&lt;/p&gt;</summary><category term="python"></category><category term="module"></category></entry><entry><title>[Week 11] 課程內容整理</title><link href="./week-11-ke-cheng-nei-rong-zheng-li.html" rel="alternate"></link><published>2016-11-24T15:00:00+08:00</published><updated>2016-11-24T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-24:./week-11-ke-cheng-nei-rong-zheng-li.html</id><summary type="html">&lt;p&gt;[Week 11] 第十一週課程內容概要整理。&lt;/p&gt;
 
 
 &lt;h2&gt;Solvespace&lt;/h2&gt;

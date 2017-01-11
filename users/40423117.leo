@@ -15,10 +15,13 @@
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
 <v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
-<v t="leo.20151213173830.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
+<v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
+<v t="leo.20161117151529.1"><vh>@button https server</vh></v>
+<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151212173725.1"><vh>@edit pelicanconf.py</vh></v>
+<v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@clean index.html</vh>
 <v t="amd.20161004083800.1" a="E"><vh>html</vh>
 <v t="amd.20161004083800.2"><vh>head</vh>
@@ -129,21 +132,12 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
-<v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
-<v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
-</v>
-<v t="amd.20151215170117.1"><vh>以下 pelicanconf.py 為近端與遠端的共同設定</vh></v>
-<v t="leo.20151212173725.1"><vh>@edit pelicanconf.py</vh></v>
-<v t="amd.20151215170221.1"><vh>以下 local_publishconf.py 為近端所使用的設定</vh></v>
-<v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
-</v>
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
-<v t="amd.20160727114506.1" a="E"><vh>201609</vh>
+<v t="amd.20160727114506.1"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 </v>
 <v t="leo.20161030210402.1" a="E"><vh>201610</vh>
@@ -155,8 +149,12 @@
 <v t="leo.20161119202249.1"><vh>@edit 20161119.md</vh></v>
 <v t="leo.20161124144412.1"><vh>@edit 20161124.md</vh></v>
 </v>
+<v t="leo.20170106232011.1" a="E"><vh>201612</vh>
+<v t="leo.20170106232016.1"><vh>@edit 20161201.md</vh></v>
+</v>
 <v t="leo.20170105162926.1" a="E"><vh>201701</vh>
 <v t="leo.20170105161054.1"><vh>@edit 20170105.md</vh></v>
+<v t="leo.20170112041150.1"><vh>back</vh></v>
 </v>
 <v t="leo.20161117153248.1"><vh>產生 .key 與 .crt</vh></v>
 </v>
@@ -166,15 +164,10 @@
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
-<v t="leo.20161117151529.1"><vh>@button https server</vh></v>
-<v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
-<t tx="amd.20151215170117.1"></t>
-<t tx="amd.20151215170221.1"></t>
 <t tx="amd.20151215170350.1"></t>
-<t tx="amd.20151215180106.1"></t>
 <t tx="amd.20151216001126.1">@language md
 Title: 文章標題 (請注意各文章的標題不可相同, 比較保險的作法是冠上四個學號尾碼)
 Date: 2016-09-2 12:00
@@ -779,28 +772,7 @@ g.es("admin pelican 近端執行完畢")
 
 
 </t>
-<t tx="leo.20151213173830.1"></t>
 <t tx="leo.20151213230723.1"></t>
-<t tx="leo.20151213230729.1">利用
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-來界定 Summary 摘要內容
-
-前提, 必須設定 
-
-PLUGIN_PATHS = ['plugin']
-
-與
-
-PLUGINS = ['liquid_tags.notebook', 'summary']
-
-並且從 https://github.com/getpelican/pelican-plugins
-
-取得 summary plugin</t>
-<t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
-
-DEFAULT_DATE = 'fs'</t>
 <t tx="leo.20161030192116.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1030,5 +1002,59 @@ make = threading.Thread(target=domake)
 make.start()</t>
 <t tx="leo.20161117153248.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt</t>
 <t tx="leo.20170105162926.1"></t>
+<t tx="leo.20170106232011.1"></t>
+<t tx="leo.20170112041150.1">@language md
+Title: [懶人包] 期中後到期末前要做的事
+Date: 2017-01-05 15:00
+Category: 2016fallcadpa
+Tags: solvespace, 零件圖繪製, 
+Author: 40423117
+
+有鑒於方便資料整合，故將期中後到期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中後到期末前這幾週老師的課程內容。
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;貼心提醒：&lt;/font&gt;&lt;/b&gt;建議同學們，還是先把期中之前要做的事情完成，這樣本篇文章才能進行得更快哦！&lt;/small&gt;
+
+&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;貼心提醒：&lt;/font&gt;&lt;/b&gt;建議同學們，還是先把期中之前要做的事情完成，這樣本篇文章才能進行得更快哦！&lt;/small&gt;
+
+### 期中後~期末前所需
+&lt;hr/&gt;
+
+  * Download [Solvespace v2.1](https://github.com/solvespace/solvespace/releases/tag/v2.1)
+  
+  * Create account &lt;a href="https://www.onshape.com"&gt;OnShape&lt;/a&gt;
+
+### College_Student_Primer_Creo_2
+&lt;hr/&gt;
+&lt;a href="./../data/1201/1201.JPG"&gt;&lt;img src="./../data/1201/1201.JPG" height="50%"&gt;&lt;/a&gt;
+
+  * Download [College_Student_Primer_Creo_2.pdf](https://40423117.github.io/2016fallcadp_hw/data/1201/College_Student_Primer_Creo_2.pdf)
+
+  * 利用[Solvespace v2.1](https://github.com/solvespace/solvespace/releases/tag/v2.1) ，畫出來。
+
+  * 方形 零件圖
+
+&lt;iframe src="./../data/1201/1201-1.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+  * 圓柱 零件圖
+
+&lt;iframe src="./../data/1201/1201-2.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+  * 組合圖
+
+&lt;iframe src="./../data/1201/1201.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+### HTML遠端無法顯示的問題
+&lt;hr/&gt;
+
+### OnShape 分組作業
+&lt;hr/&gt;
+
+### delta_3dprint   (用Solvespace畫完，使用OnShape組裝)
+&lt;hr/&gt;
+&lt;a href="./../data/3dprint/3dprint.JPG"&gt;&lt;img src="./../data/3dprint/3dprint.JPG" height="50%"&gt;&lt;/a&gt;
+
+https://cad.onshape.com/documents/5857da172c6401109cd59c40/w/3c12983596f0b655e19c8242/e/acc3c9a33b806c014834c490
+</t>
 </tnodes>
 </leo_file>

@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>[懶人包] 期末前要做的事 - 2016Fall 課程網誌 (虎尾科大MDE)</title>
+    <title>HTML遠端無法顯示的問題 - 2016Fall 課程網誌 (虎尾科大MDE)</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -166,21 +166,21 @@ init_mathjax = function() {
 init_mathjax();
 </script>
 
-<link rel="canonical" href="./lan-ren-bao-qi-mo-qian-yao-zuo-de-shi.html">
+<link rel="canonical" href="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html">
 
         <meta name="author" content="40423117" />
-        <meta name="keywords" content="solvespace,零件圖繪製" />
-        <meta name="description" content="有鑒於方便資料整合，故將期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期末前這幾週老師的課程內容。" />
+        <meta name="keywords" content="python,module" />
+        <meta name="description" content="Solvespace 輸出HTML後，使用HTML iframe語法插入網頁上無法顯示 此篇會教你如何解決！" />
 
         <meta property="og:site_name" content="2016Fall 課程網誌 (虎尾科大MDE)" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="[懶人包] 期末前要做的事"/>
-        <meta property="og:url" content="./lan-ren-bao-qi-mo-qian-yao-zuo-de-shi.html"/>
-        <meta property="og:description" content="有鑒於方便資料整合，故將期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期末前這幾週老師的課程內容。"/>
-        <meta property="article:published_time" content="2017-01-05" />
+        <meta property="og:title" content="HTML遠端無法顯示的問題"/>
+        <meta property="og:url" content="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html"/>
+        <meta property="og:description" content="Solvespace 輸出HTML後，使用HTML iframe語法插入網頁上無法顯示 此篇會教你如何解決！"/>
+        <meta property="article:published_time" content="2016-12-01" />
             <meta property="article:section" content="2016fallcadpa" />
-            <meta property="article:tag" content="solvespace" />
-            <meta property="article:tag" content="零件圖繪製" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:tag" content="module" />
             <meta property="article:author" content="40423117" />
 
 
@@ -291,10 +291,10 @@ init_mathjax();
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="./lan-ren-bao-qi-mo-qian-yao-zuo-de-shi.html"
+                    <a href="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html"
                        rel="bookmark"
-                       title="Permalink to [懶人包] 期末前要做的事">
-                        [懶人包] 期末前要做的事
+                       title="Permalink to HTML遠端無法顯示的問題">
+                        HTML遠端無法顯示的問題
                     </a>
                 </h1>
             </header>
@@ -304,7 +304,7 @@ init_mathjax();
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2017-01-05T15:00:00+08:00"> 週四 05 一月 2017</time>
+        <i class="fa fa-calendar"></i><time datetime="2016-12-01T15:00:00+08:00"> 週四 01 十二月 2016</time>
     </span>
             <span class="label label-default">By</span>
             <a href="./author/40423117.html"><i class="fa fa-user"></i> 40423117</a>
@@ -312,16 +312,24 @@ init_mathjax();
 
 
 <span class="label label-default">Tags</span>
-	<a href="./tag/solvespace.html">solvespace</a>
+	<a href="./tag/python.html">python</a>
         /
-	<a href="./tag/ling-jian-tu-hui-zhi.html">零件圖繪製</a>
+	<a href="./tag/module.html">module</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>有鑒於方便資料整合，故將期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期末前這幾週老師的課程內容。</p>
+                <p>Solvespace 輸出HTML後，使用HTML iframe語法插入網頁上無法顯示</p>
+<p><b><font color="#FF0000">此篇會教你如何解決！</font></b></p>
 
 
-<p>[<b><font color="#FF0000">整理中哦！</font></b>]</p>
+<p><small><b><font color="#FF0000">圖文及影片正在後製整理中...</font>，預計完成時間：2017/01/15</b></small></p>
+<p>將Solvespace 儲存的HTML檔，拉進任意編輯器中，修改以下兩行</p>
+<p>[原始]</p>
+<p><code>script src="<b>http</b>://threejs.org/build/three.js"</code></p>
+<p><code>script src="<b>http</b>://hammerjs.github.io/dist/hammer.js"</code></p>
+<p>[修正後]</p>
+<p><code>script src="<b>https</b>://threejs.org/build/three.js"</code></p>
+<p><code>script src="<b>https</b>://hammerjs.github.io/dist/hammer.js"</code></p>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -337,8 +345,13 @@ init_mathjax();
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
-                        <a href="./lan-ren-bao-qi-mo-qian-yao-zuo-de-shi.html">
-                            [懶人包] 期末前要做的事
+                        <a href="./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html">
+                            [懶人包] 期中後到期末前要做的事
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html">
+                            HTML遠端無法顯示的問題
                         </a>
                     </li>
                     <li class="list-group-item">
@@ -354,11 +367,6 @@ init_mathjax();
                     <li class="list-group-item">
                         <a href="./week-10-ke-cheng-nei-rong-zheng-li.html">
                             [Week 10] 課程內容整理
-                        </a>
-                    </li>
-                    <li class="list-group-item">
-                        <a href="./onshape-fen-zu-zuo-ye-week13.html">
-                            [OnShape] 分組作業week1~3
                         </a>
                     </li>
                 </ul>
