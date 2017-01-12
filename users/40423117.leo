@@ -1015,8 +1015,6 @@ Author: 40423117
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 &lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;貼心提醒：&lt;/font&gt;&lt;/b&gt;建議同學們，還是先把期中之前要做的事情完成，這樣本篇文章才能進行得更快哦！&lt;/small&gt;
 
-&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;貼心提醒：&lt;/font&gt;&lt;/b&gt;建議同學們，還是先把期中之前要做的事情完成，這樣本篇文章才能進行得更快哦！&lt;/small&gt;
-
 ### 期中後~期末前所需
 &lt;hr/&gt;
 
