@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T15:45:00+08:00</updated><entry><title>2017Fall 01/12 電腦輔助設計實習課程總結</title><link href="./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T15:45:00+08:00</published><updated>2017-01-12T15:45:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-12:./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;這學期電腦輔助設計實習課程總結&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T15:45:00+08:00</updated><entry><title>2017Fall 01/12 電腦輔助設計實習課程總結</title><link href="./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T15:45:00+08:00</published><updated>2017-01-12T15:45:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-12:./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;學期課程總結、心得感想。&lt;/p&gt;
+&lt;p&gt;老師這邊請喔！&lt;/p&gt;
 
 
 &lt;p&gt;一開始想做懶人包的原因，就是因為有很多人都直接COPY別人的作業，而不自己動手做看看。
 仔細想想這一年半的進步滿多的，從最陽春的懶人包→到現在有了文字+圖片+影片，從東塞西塞的文章，整理出一篇非常精華的文章，其實很不容易，花的時間很多。&lt;/p&gt;
-&lt;p&gt;原本也想向其他同學一樣，只要把作業拍一拍，弄篇文章，上傳就草草了事，但礙於自己完美心作祟，堅持要把事情做到最好，雖然現在還沒到完美的程度，但這門課讓我學到的東西不只有課業僅此而已。&lt;/p&gt;
+&lt;p&gt;原本也想像其他同學一樣，只要把作業拍一拍，弄篇文章，上傳就好，但礙於自己完美心作祟，堅持要把事情做到最好，雖然現在還沒到完美的程度，但這門課讓我學到的東西不只有課業僅此而已。&lt;/p&gt;
 &lt;p&gt;期中懶人包：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/LazyPackage2016.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;期末懶人包：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看 &lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="solvespace"></category><category term="期末整理"></category></entry><entry><title>[懶人包] 期中後到期末前要做的事</title><link href="./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html" rel="alternate"></link><published>2017-01-05T15:00:00+08:00</published><updated>2017-01-05T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-05:./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中後到期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中後到期末前這幾週老師的課程內容。&lt;/p&gt;
 &lt;p&gt;期中懶人包：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/LazyPackage2016.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
@@ -33,6 +34,9 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/tu-wen-pian-mechanism-tutorial.html"&gt;圖文教學 MECHANISM TUTORIAL(含影片)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/college_student_primer_creo_2.html"&gt;College_Student_Primer_Creo_2零件組裝(含影片)&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/delta_3d_print.html"&gt;delta_3D_Print零件組裝(含影片)&lt;/a&gt; &lt;/p&gt;
