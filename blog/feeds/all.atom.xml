@@ -2,6 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2016Fall 課程網誌 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-01-12T15:45:00+08:00</updated><entry><title>2017Fall 01/12 電腦輔助設計實習課程總結</title><link href="./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html" rel="alternate"></link><published>2017-01-12T15:45:00+08:00</published><updated>2017-01-12T15:45:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-12:./2017fall-0112-dian-nao-fu-zhu-she-ji-shi-xi-ke-cheng-zong-jie.html</id><summary type="html">&lt;p&gt;這學期電腦輔助設計實習課程總結&lt;/p&gt;
 
 
+&lt;p&gt;一開始想做懶人包的原因，就是因為有很多人都直接COPY別人的作業，而不自己動手做看看。
+仔細想想這一年半的進步滿多的，從最陽春的懶人包→到現在有了文字+圖片+影片，從東塞西塞的文章，整理出一篇非常精華的文章，其實很不容易，花的時間很多。&lt;/p&gt;
+&lt;p&gt;原本也想向其他同學一樣，只要把作業拍一拍，弄篇文章，上傳就草草了事，但礙於自己完美心作祟，堅持要把事情做到最好，雖然現在還沒到完美的程度，但這門課讓我學到的東西不只有課業僅此而已。&lt;/p&gt;
+&lt;p&gt;原本的自評分數是 85分，但目前的進度跟其他同學相比，我還是給了自己 &lt;font color="#FF0000"&gt;95分&lt;/font&gt;的成績。&lt;/p&gt;
 &lt;p&gt;期中懶人包：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/LazyPackage2016.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;期末懶人包：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看 &lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="solvespace"></category><category term="期末整理"></category></entry><entry><title>[懶人包] 期中後到期末前要做的事</title><link href="./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html" rel="alternate"></link><published>2017-01-05T15:00:00+08:00</published><updated>2017-01-05T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2017-01-05:./lan-ren-bao-qi-zhong-hou-dao-qi-mo-qian-yao-zuo-de-shi.html</id><summary type="html">&lt;p&gt;有鑒於方便資料整合，故將期中後到期末之前的筆記統整成一篇文章，方便其他同學能夠利用最少的時間，學到期中後到期末前這幾週老師的課程內容。&lt;/p&gt;
 &lt;p&gt;期中懶人包：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/LazyPackage2016.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
@@ -17,17 +21,29 @@
 
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/week-10-ke-cheng-nei-rong-zheng-li.html"&gt;Week 10 課程內容整理&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/week-10-ke-cheng-nei-rong-zheng-li.html"&gt;Week 10 課程內容整理(含影片)&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/mo-zu-que-shao-jie-jue-ban-fa.html"&gt;模組缺少解決辦法&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/mo-zu-que-shao-jie-jue-ban-fa.html"&gt;模組缺少解決辦法(含影片)&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/week-11-ke-cheng-nei-rong-zheng-li.html"&gt;Week 11 課程內容整理&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/week-11-ke-cheng-nei-rong-zheng-li.html"&gt;Week 11 課程內容整理(含影片)&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html"&gt;HTML遠端無法顯示的問題&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html"&gt;HTML遠端無法顯示的問題(含影片)&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/tu-wen-pian-mechanism-tutorial.html"&gt;圖文教學 MECHANISM TUTORIAL(含影片)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/delta_3d_print.html"&gt;delta_3D_Print零件組裝(含影片)&lt;/a&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;檔案擷取區&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;  &lt;/p&gt;
+&lt;p&gt;以下檔案，請利用OnShape畫出零件圖+組裝圖 ，同時拍攝影片&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/ProEMechanism.pdf"&gt;MECHANISM TUTORIAL&lt;/a&gt; &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;以下檔案，請利用solvespace畫出零件圖+組裝圖 ，同時拍攝影片&lt;/p&gt;
 &lt;ul&gt;
@@ -38,26 +54,188 @@
 &lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5857da172c6401109cd59c40/w/3c12983596f0b655e19c8242/e/acc3c9a33b806c014834c490"&gt;delta_3D_Print&lt;/a&gt; &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;以下為本人的零件檔案，需要的同學可以取用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/SolveSpace_bracket_hw.slvs"&gt;SolveSpace_bracket_hw.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/w7_fourbar_.slvs"&gt;w7_fourbar_.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/40423117_w10_fourbar.slvs"&gt;40423117_w10_fourbar.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/1201/1201.slvs"&gt;College_Student_Primer_Creo_2_作業零件檔&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;3DPrint 零件&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/Assembly.slvs"&gt;組合圖&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/disc.slvs"&gt;disc.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/short.slvs"&gt;short.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/pillar.slvs"&gt;pillar.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/Chassis.slvs"&gt;Chassis.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/onshape-fen-zu-zuo-ye-week13.html"&gt;OnShape 組內作業&lt;/a&gt; (請依照自己組別內，分工的作業畫，本篇只有我在組內所需畫的作業)&lt;/p&gt;
-&lt;h3&gt;作業影片+圖文教學&lt;/h3&gt;
+&lt;h3&gt;作業影片&lt;/h3&gt;
 &lt;hr/&gt;
 
-&lt;p&gt;&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;圖文及影片正在後製整理中...&lt;/font&gt;，預計完成時間：2017/01/15&lt;/b&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;p&gt;等待的期間，同學可以先將組內的Onshape作業先自行畫好，以及拍攝影片喔！&lt;/p&gt;
-&lt;p&gt;OnShape 組內作業：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/onshape-fen-zu-zuo-ye-week13.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="懶人包"></category><category term="solvespace"></category><category term="期末整理"></category></entry><entry><title>HTML遠端無法顯示的問題</title><link href="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html" rel="alternate"></link><published>2016-12-01T15:00:00+08:00</published><updated>2016-12-01T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-12-01:./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html</id><summary type="html">&lt;p&gt;Solvespace 輸出HTML後，使用HTML iframe語法插入網頁上無法顯示&lt;/p&gt;
+&lt;p&gt;若有需要註解的地方都會在文章內&lt;b&gt;加圖片及文字&lt;/b&gt;，方便同學操作，那影片的部分只會將重要的地方使用 "Zoomlt" 工具放大細節給同學看。&lt;b&gt;影片皆已剪接,將不重要的地方刪減。&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;OnShape 教學：&lt;a href="https://40423117.github.io/2016fallcadp_hw/blog/onshape-fen-zu-zuo-ye-week13.html"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;點我看&lt;/button&gt;&lt;/a&gt;
+&lt;hr/&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/5823540fec5f9e10edc67475/w/32771219c8e70ebce6752e5c/e/c4b18dd7e4a89f2c02bede28"&gt;College - Linear Part Pattern - 40423117&lt;/a&gt; 
+&lt;iframe src="https://player.vimeo.com/video/190911366" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190911366"&gt;College - Linear Part Pattern&lt;/a&gt; from &lt;a href="https://vimeo.com/user44960495"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;hr/&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/582356dd29960c108fb2fce2/w/c13ccdcc72f87ff413139192/e/f8f2dbce632008b09e8fcd04"&gt;College - Week 3 Homework - 40423117&lt;/a&gt; 
+&lt;iframe src="https://player.vimeo.com/video/190911395" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190911395"&gt;College - Week 3 Homework&lt;/a&gt; from &lt;a href="https://vimeo.com/user44960495"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/587ed6a0f6c36b10bb34d70d/w/e79b1dcae6d965038beb5cc5/e/30483adc37828dc064ad63e9"&gt;MECHANISM TUTORIAL&lt;/a&gt; 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PR4Kg_fcd6k?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_bracket_hw_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qvuUeD8DB_0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_fourbar_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lmY4APXnyy0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_fourbar_Trace_Point_tutorial_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SvzbU2YYAwA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CSV_EXCEL_TO圖檔_tutorial_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L__eySIuBTk?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_Lathe_tutorial_40423117
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hTXAWy7JIu0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_Lathe_way2_tutorial_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e3-fu4NJuqQ?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3DPrint_組裝_40423117
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5TsrDW5QZ8c?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="懶人包"></category><category term="solvespace"></category><category term="期末整理"></category></entry><entry><title>[圖文篇] MECHANISM TUTORIAL</title><link href="./tu-wen-pian-mechanism-tutorial.html" rel="alternate"></link><published>2016-12-29T15:00:00+08:00</published><updated>2016-12-29T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-12-29:./tu-wen-pian-mechanism-tutorial.html</id><summary type="html">&lt;p&gt;[圖文篇] MECHANISM TUTORIAL&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;避免懶人包的篇幅過大，故獨立出一篇！&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;p&gt;本篇教學的是偷吃步篇，因為零件我已經都畫好了，但是忘記拍攝影片了，所以就直接讓大家COPY副本，學學怎麼將零件組裝起來。&lt;/p&gt;
+&lt;p&gt;如果你想要自己畫零件跟組合的話，尺寸跟視圖下載點在這：&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/ProEMechanism.pdf"&gt;MECHANISM TUTORIAL&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;貼心提醒：&lt;/font&gt;&lt;/b&gt;本篇只貼一開始操作的部分，其他畫圖的地方，都是非常簡單的，影片當中每點一次按鈕，都會放大給大家看！&lt;/small&gt;&lt;/p&gt;
+&lt;h3&gt;圖文篇&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;首先到&lt;a href="https://cad.onshape.com/documents/587ed6a0f6c36b10bb34d70d/w/e79b1dcae6d965038beb5cc5/e/30483adc37828dc064ad63e9"&gt;MECHANISM TUTORIAL&lt;/a&gt; 建立一個一樣的副本
+&lt;img src="./../data/mechanism/1.jpg" height="450px"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;點選左下角的+，選擇組合件
+&lt;img src="./../data/mechanism/2.jpg" height="450px"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;選擇底座(第一個零件)
+&lt;img src="./../data/mechanism/3.jpg" height="450px"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;點選底座右鍵，將它固定
+&lt;img src="./../data/mechanism/4.jpg" height="450px"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;影片示範&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PR4Kg_fcd6k?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="python"></category><category term="module"></category></entry><entry><title>Delta_3D_Print</title><link href="./delta_3d_print.html" rel="alternate"></link><published>2016-12-28T15:00:00+08:00</published><updated>2016-12-28T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-12-28:./delta_3d_print.html</id><summary type="html">&lt;p&gt;文末有附上檔案載點哦！有需要的同學可以自己取用！&lt;/p&gt;
+
+
+&lt;h3&gt;3DPrint_組裝_40423117&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5TsrDW5QZ8c?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3&gt;零件展示&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;iframe src="./../data/3dprint/1.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/3dprint/2.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/3dprint/3.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/3dprint/4.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+&lt;iframe src="./../data/3dprint/assembly.html" width="600" height="400"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;檔案擷取區&lt;/h3&gt;
+&lt;p&gt;&lt;hr/&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/Assembly.slvs"&gt;組合圖&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/disc.slvs"&gt;disc.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/short.slvs"&gt;short.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/pillar.slvs"&gt;pillar.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://40423117.github.io/2016fallcadp_hw/data/3dprint/Chassis.slvs"&gt;Chassis.slvs&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="3DPrint"></category><category term="module"></category></entry><entry><title>HTML遠端無法顯示的問題</title><link href="./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html" rel="alternate"></link><published>2016-12-01T15:00:00+08:00</published><updated>2016-12-01T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-12-01:./htmlyuan-duan-wu-fa-xian-shi-de-wen-ti.html</id><summary type="html">&lt;p&gt;Solvespace 輸出HTML後，使用HTML iframe語法插入網頁上無法顯示&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;此篇會教你如何解決！&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&lt;small&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;圖文及影片正在後製整理中...&lt;/font&gt;，預計完成時間：2017/01/15&lt;/b&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;將Solvespace 儲存的HTML檔，拉進任意編輯器中，修改以下兩行&lt;/p&gt;
 &lt;p&gt;[原始]&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;script src="&lt;b&gt;http&lt;/b&gt;://threejs.org/build/three.js"&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;script src="&lt;b&gt;http&lt;/b&gt;://hammerjs.github.io/dist/hammer.js"&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;[修正後]&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;script src="&lt;b&gt;https&lt;/b&gt;://threejs.org/build/three.js"&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;script src="&lt;b&gt;https&lt;/b&gt;://hammerjs.github.io/dist/hammer.js"&lt;/code&gt;&lt;/p&gt;</summary><category term="python"></category><category term="module"></category></entry><entry><title>[Week 11] 課程內容整理</title><link href="./week-11-ke-cheng-nei-rong-zheng-li.html" rel="alternate"></link><published>2016-11-24T15:00:00+08:00</published><updated>2016-11-24T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-24:./week-11-ke-cheng-nei-rong-zheng-li.html</id><summary type="html">&lt;p&gt;[Week 11] 第十一週課程內容概要整理。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;script src="&lt;b&gt;https&lt;/b&gt;://hammerjs.github.io/dist/hammer.js"&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;影片示範&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BloV6wsvSPA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="python"></category><category term="module"></category></entry><entry><title>[Week 11] 課程內容整理</title><link href="./week-11-ke-cheng-nei-rong-zheng-li.html" rel="alternate"></link><published>2016-11-24T15:00:00+08:00</published><updated>2016-11-24T15:00:00+08:00</updated><author><name>40423117</name></author><id>tag:,2016-11-24:./week-11-ke-cheng-nei-rong-zheng-li.html</id><summary type="html">&lt;p&gt;[Week 11] 第十一週課程內容概要整理。&lt;/p&gt;
 
 
+&lt;h3&gt;影片示範&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_Lathe_tutorial_40423117
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/hTXAWy7JIu0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_Lathe_way2_tutorial_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e3-fu4NJuqQ?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Solvespace&lt;/h2&gt;
 &lt;hr/&gt;
 
@@ -94,6 +272,22 @@
 &lt;li&gt;利用Brython與.csv座標，建立線上畫布&lt;/li&gt;
 &lt;/ol&gt;
 
+
+&lt;h3&gt;影片示範&lt;/h3&gt;
+&lt;hr/&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SolveSpace_四連桿_Trace_Point_tutorial_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SvzbU2YYAwA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CSV_EXCEL_TO圖檔_tutorial_40423117 
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/L__eySIuBTk?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;內文&lt;/h3&gt;
+&lt;hr/&gt;
 
 &lt;h3&gt;建立 @button https server&lt;/h3&gt;
 &lt;p&gt;特別建立了一個近端的 https 伺服器按鈕, 而且為了能夠獨立於 Leo Editor 運作, 特別採用執行緒的架構編寫:&lt;/p&gt;
@@ -335,10 +529,11 @@ ctx.closePath()
 &lt;ol&gt;
 &lt;li&gt;Download &lt;a href="https://github.com/solvespace/solvespace/releases/tag/v2.1"&gt;Solvespace v2.1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;安裝完成後，就開始零件圖繪製囉！&lt;a href="http://solvespace.com/bracket.pl"&gt;bracket.pl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Solvespace Videos&lt;p&gt;
-    &lt;iframe src="https://player.vimeo.com/video/186445993?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;p&gt;&lt;a href="https://vimeo.com/user44960495"&gt;solvespace videos&lt;/a&gt; from &lt;a href="https://vimeo.com/user44960495"&gt;40423117&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-    &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;這是我畫好的檔案 &lt;a href="https://40423117.github.io/2016fallcadp_hw/data/SolveSpace_bracket_hw.slvs"&gt;SolveSpace_bracket_hw.slvs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;組合圖&lt;p&gt;
+    &lt;iframe src="./../data/threejs/SolveSpace_bracket_hw.html" width="600" height="400"&gt;&lt;/iframe&gt;&lt;/li&gt;
+&lt;li&gt;Solvespace 影片教學&lt;p&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qvuUeD8DB_0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3&gt;錄影工具 (ShareX)&lt;/h3&gt;
 &lt;p&gt;&lt;hr/&gt;
