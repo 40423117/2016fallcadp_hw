@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-18T19:10:34-00:00</lastmod>
+<lastmod>2017-01-18T19:40:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-18T19:10:34-00:00</lastmod>
+<lastmod>2017-01-18T19:40:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-18T19:10:34-00:00</lastmod>
+<lastmod>2017-01-18T19:40:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-18T19:10:34-00:00</lastmod>
+<lastmod>2017-01-18T19:40:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -55,6 +55,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tu-wen-pian-mechanism-tutorial.html</loc>
 <lastmod>2016-12-29T15:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./college_student_primer_creo_2.html</loc>
+<lastmod>2016-12-28T15:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -130,8 +137,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/fen-zu-zuo-ye.html</loc>
-<lastmod>2016-11-10T12:00:00+08:06</lastmod>
+<loc>./tag/biao-da-neng-li.html</loc>
+<lastmod>2016-09-21T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -144,8 +151,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/lan-ren-bao.html</loc>
-<lastmod>2017-01-05T15:00:00+08:06</lastmod>
+<loc>./tag/shi-yong-dao-yin.html</loc>
+<lastmod>2016-09-21T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -158,36 +165,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/qi-mo-zheng-li.html</loc>
-<lastmod>2017-01-12T15:45:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/shi-yong-dao-yin.html</loc>
-<lastmod>2016-09-21T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/module.html</loc>
-<lastmod>2016-12-29T15:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/si-lian-gan-ji-gou.html</loc>
-<lastmod>2016-10-27T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/biao-da-neng-li.html</loc>
-<lastmod>2016-09-21T12:00:00+08:06</lastmod>
+<loc>./tag/3dprint.html</loc>
+<lastmod>2016-12-28T15:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -200,8 +179,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/onshape.html</loc>
-<lastmod>2016-11-10T12:00:00+08:06</lastmod>
+<loc>./tag/ling-jian-tu-hui-zhi.html</loc>
+<lastmod>2016-11-24T15:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -214,15 +193,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/ling-jian-tu-hui-zhi.html</loc>
-<lastmod>2016-11-24T15:00:00+08:06</lastmod>
+<loc>./tag/fen-zu-zuo-ye.html</loc>
+<lastmod>2016-11-10T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/3dprint.html</loc>
-<lastmod>2016-12-28T15:00:00+08:06</lastmod>
+<loc>./tag/lan-ren-bao.html</loc>
+<lastmod>2017-01-05T15:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/qi-mo-zheng-li.html</loc>
+<lastmod>2017-01-12T15:45:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/si-lian-gan-ji-gou.html</loc>
+<lastmod>2016-10-27T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/onshape.html</loc>
+<lastmod>2016-11-10T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/module.html</loc>
+<lastmod>2016-12-29T15:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
